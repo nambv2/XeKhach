@@ -1,0 +1,141 @@
+body{background: url(../images/content_bg.jpg) repeat;}
+.error{color: red; font-size: 12px; margin-top: 10px;}
+.huongdan{color: #3276B1; margin-left: 80px; font-size: 20px;}
+.navbar-default {
+    background-color: #000000;
+    border-color: #000000;
+}
+tbody
+{
+    overflow-x:auto;
+}
+#dangky1{
+ width:660px;
+}
+#header-slideshow{height: 250px;}
+
+#dangnhap{margin-top: 100px; margin-bottom: 150px; padding-top: 10px;padding-bottom: 35px;}
+#dangnhap #message{margin-left: 200px; margin-bottom: 30px;}
+#dangnhap h3{margin-left: 200px; color:#2D52A0; }
+
+#dangky{margin-top: 10px; margin-bottom: 150px; padding-top: 10px;padding-bottom: 35px;}
+#dangky #message{font-size: 14px; margin-left: 200px; margin-bottom: 30px; font-weight: bold;}
+#dangky h3{margin-left: 200px; color:#2D52A0; }
+
+#timkiem-trangchu{height: 417px;}
+#timkiem-trangchu h3{color: #2D52A0; margin-left: 163px; font-weight: bold; }
+#timkiem-trangchu div{margin:20px 0;}
+#timkiem-trangchu div span{font-weight: bold; margin-right: 15px; margin-left: 10px;}
+.ngayVe{display: none;}
+
+#timkiem{height: 417px;}
+#timkiem h3{color: #2D52A0;margin-left: 195px; font-weight: bold; }
+#timkiem div{margin:20px 0;}
+#timkiem div span{font-weight: bold; margin-right: 15px; margin-left: 10px;}
+.hienthi-timkiem caption{color: #2D52A0; font-size: 23px; font-weight: bold; }
+
+.price{margin-left: 10px; margin-top: 10px; min-width: 222px; min-height: 150px; background: url(../images/bg_top.PNG); box-shadow: 0 0 2px 0 blue;}
+footer{border-top: 1px solid #DAB581; height: 150px;}
+footer h3{margin: 10px auto;}
+footer h3{margin: 30px auto; display: block; width: 450px;}
+#bs-example-navbar-collapse-6{background-color: #0C0902; margin: -1px;color: #fff;}
+#bs-example-navbar-collapse-6 a{color: white;font-weight: 10px;}
+#bs-example-navbar-collapse-6 ul{margin-left: 400px;}
+
+/*admin*/
+#danhsachtuyen h3{margin-left: 270px;margin-top: 30px; margin-bottom: 30px; color: #428BCA; }
+
+#themtuyen  h3{color:#428BCA; margin-left: 270px;margin-top: 30px;margin-bottom: 30px; }
+#themtuyen #frm-themtuyen{width: 700px;margin-left: 200px;}
+#themtuyen #frm-themtuyen select{width: 155px; height: 25px; border-radius: 2px; border:1px solid #DDDACA}
+
+#danhsachchuyen h3{margin-left: 270px; margin-bottom: 30px;color: #428BCA;}
+#danhsachchuyen form{margin-left: 240px;}
+#danhsachchuyen form select{width: 155px; height: 25px; border-radius: 2px; border:1px solid #DDDACA}
+#danhsachchuyen ul{float: right;}
+
+#themchuyen h3{margin-left: 270px; color: #428BCA; margin-bottom: 30px;}
+#themchuyen form{margin-left: 130px;}
+#themchuyen select{height: 23px; border-radius: 2px; border: 1px solid #DDDACA}
+#themchuyen button{margin-left: 100px;}
+
+#chitietchuyen h3{margin-left: 250px; color: #428BCA; margin-bottom: 30px;}
+#chitietchuyen form{margin-left: 130px;}
+#chitietchuyen select{height: 23px; border-radius: 2px; border: 1px solid #DDDACA}
+
+#themxe  h3{color:#428BCA; margin-left: 330px;margin-top: 30px;margin-bottom: 30px; }
+#themxe form{width: 700px;margin-left: 200px;}
+#themxe form select{width: 155px; height: 25px; border-radius: 2px; border:1px solid #DDDACA}
+
+#danhsachnhanvien h3{margin-left: 300px;margin-bottom: 30px;color:#428BCA }
+#danhsachnhanvien ul{float: right; clear: both;}
+
+
+#themnhanvien h3{margin-left: 250px; margin-bottom: 30px; color: #428BCA;}
+#themnhanvien form{margin-left: 50px;}
+#themnhanvien select{border-radius: 2px; border: 1px solid #DDDACA; height: 23px; margin-top: 5px;}
+#themnhanvien form button{margin-left: 55px}
+#themnhanvien .error{margin-top: 5px;}
+
+
+#danhsachgiave h3{margin-left: 300px;margin-bottom: 30px;color:#428BCA;}
+#danhsachgiave form{margin-left: 80px;}
+#danhsachgiave form select{border-radius: 2px; border: 1px solid #DDDACA; height: 23px; margin-top: 5px;}
+
+#themgiave h3{margin-left: 300px;margin-bottom: 30px;color:#428BCA }
+#themgiave select{border-radius: 2px; border: 1px solid #DDDACA; height: 23px; margin-top: 5px;}
+
+#danhsachve .thongtin{padding-top: 5px;}
+#danhsachve h3{margin-left: 283px;color: #428BCA}
+
+#thongkethang h3{margin-left: 200px; margin-bottom: 30px; color: #428BCA}
+#thongkethang select{border-radius: 2px; border: 1px solid #DDDACA; height: 23px; margin-top: 5px;}
+#thongkethang form{margin-left: 280px;}
+
+#thongketuyen h3{margin-left: 200px; margin-bottom: 30px; color: #428BCA}
+#thongketuyen select{border-radius: 2px; border: 1px solid #DDDACA; height: 23px; margin-top: 5px;}
+#thongketuyen form{margin-left: 30px;}
+
+#baocao h3{margin-left: 200px; margin-bottom: 30px; color: #428BCA}
+#baocao select{border-radius: 2px; border: 1px solid #DDDACA; height: 23px;}
+#baocao form{margin-left: 220px; width: 900px;}
+
+#thongtintaikhoan h3{color: #4D4DFF; margin-left: 10px; margin-top: 30px; margin-bottom: 30px;}
+#thongtintaikhoan  form{margin-left: 192px;}
+#thongtintaikhoan .thongtin{margin-top: 5px;}
+
+#capnhattaikhoan h3{margin-left: 187px; color: #4D4DFF}
+#capnhattaikhoan #message{margin-left: 250px; font-size: 15px; }
+
+
+
+/*an form tiep tuc nen chua chon ghe dat*/
+.transparent{
+ background-color: rgba(0,0,0,0.14);
+}
+
+.tang{width: 700px; min-height: 400px; float: left;}
+.dayghe{width: 210px;  margin-top: 30px;margin-left: 40px; float: left;}
+.dayghe .ghe{min-width: 70px; min-height: 60px; margin: 5px; padding-top: 20px;}
+#daycuoi{clear: both;margin-left: 40px;width: 427px;}
+#daycuoi .ghe{min-width: 70px; min-height: 60px; margin: 5px; padding-top: 20px;}
+.tang img{margin-left: 80px; margin-top: 30px;}
+.tang #canhle{margin-top: 100px;}
+#loadxe #xuly{clear: both;margin-left: 30px;}
+#ghengoi .tang{margin-left: 350px;}
+
+#giuongnam .tang{float: left; width: 500px; display: inline; margin-left: 50px;}
+#giuongnam #tang2{float: left;}
+
+.ten-tang{font-weight: bold; font-size: 23px; color: #3276B1; padding-left: 195px; padding-top: 30px;}
+.thaydoi{background: red;}
+.dachon{background: #F8CF0D;}
+.dayghe .dadat{min-width: 70px; min-height: 60px; margin: 5px;padding-top: 20px;}
+#daycuoi .dadat{min-width: 70px; min-height: 60px; margin: 5px;padding-top: 20px;}
+.dadat{background: #47A447;padding-top: 20px;}
+
+.note{font-size: 13px; color: red; }
+
+
+
+

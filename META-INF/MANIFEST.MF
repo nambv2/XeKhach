@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: XeKhach
+Bundle-SymbolicName: XeKhach
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: XeKhach.jar,
+ lib/servlet-api.jar
+Export-Package: fpt.fsdn.svtt1213.controller,
+ fpt.fsdn.svtt1213.model.bean,
+ fpt.fsdn.svtt1213.model.bo,
+ fpt.fsdn.svtt1213.model.dao,
+ fpt.fsdn.svtt1213.utility

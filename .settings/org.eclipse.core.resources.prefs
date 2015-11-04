@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/js/myscript.js=UTF-8
+encoding//src/fpt/fsdn/svtt1213/controller/DangKyServlet.java=UTF-8
+encoding//src/fpt/fsdn/svtt1213/controller/DangNhapServlet.java=UTF-8
+encoding//src/fpt/fsdn/svtt1213/controller/ThemXeServlet.java=UTF-8
+encoding//src/fpt/fsdn/svtt1213/controller/ThongKeTheoTuyenServlet.java=UTF-8
+encoding//src/fpt/fsdn/svtt1213/controller/TimKiemVeXeServlet.java=UTF-8
+encoding//src/fpt/fsdn/svtt1213/model/bo/ThongKeTheoTuyenBO.java=UTF-8
+encoding//src/fpt/fsdn/svtt1213/model/dao/BaoCaoDAO.java=UTF-8
+encoding//src/fpt/fsdn/svtt1213/model/dao/TimKiemVeXeDAO.java=UTF-8
+encoding//src/fpt/fsdn/svtt1213/utility/Security.java=UTF-8
